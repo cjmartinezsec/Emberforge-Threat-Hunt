@@ -1,0 +1,5 @@
+.venv/
+*.pyc
+__pycache__/
+Emberforge Threat Hunt Report.docx
+.DS_Store
